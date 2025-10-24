@@ -1,0 +1,8 @@
+gps-tracker/
+├── server.js
+├── package.json
+├── railway.json
+├── .gitignore
+└── public/
+    ├── device.html
+    └── admin.html
